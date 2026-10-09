@@ -1,6 +1,6 @@
 # Hey, I'm Rachit Sharma
 
-![Rachit Sharma profile banner: name, Digital Marketing Specialist (in training), marketing and AI](assets/banner.png)
+[![Rachit Sharma profile banner: name, Digital Marketing Specialist (in training), marketing and AI](assets/banner.png)](https://rachitportfolio-rouge.vercel.app/)
 
 I'm a **digital marketer (in training)** who uses AI tools to build brands, campaigns and creative projects that actually connect.
 
@@ -10,7 +10,7 @@ I'm a **digital marketer (in training)** who uses AI tools to build brands, camp
 
 ### Rachit Sharma — Portfolio
 
-![Portfolio project card: dark cinematic portfolio built with React, Tailwind CSS, GSAP and Lenis](assets/card-portfolio.png)
+[![Portfolio project card: dark cinematic portfolio built with React, Tailwind CSS, GSAP and Lenis](assets/card-portfolio.png)](https://rachitportfolio-rouge.vercel.app/)
 
 My own dark, cinematic portfolio — GSAP scroll animations, Lenis smooth scroll and Supabase.
 
@@ -18,15 +18,15 @@ My own dark, cinematic portfolio — GSAP scroll animations, Lenis smooth scroll
 
 ### Infinity Fitness Gym
 
-![Infinity Fitness Gym project card: landing page for a gym in Kaithal](assets/card-fitness.png)
+[![Infinity Fitness Gym project card: landing page for a gym in Kaithal](assets/card-fitness.png)](https://fitness-website-nine-chi.vercel.app/)
 
 Landing page for a gym in Kaithal — UI design, responsive layout and branding.
 
-**[Live](https://infinity-fitness-gym-woad.vercel.app/) · [Code](https://github.com/Rachit-Sharma08/Fitness-website)**
+**[Live](https://fitness-website-nine-chi.vercel.app/) · [Code](https://github.com/Rachit-Sharma08/Fitness-website)**
 
 ### Neon Car Racing Game
 
-![Neon Car Racing Game project card: fast neon racer built with React and Three.js](assets/card-neon.png)
+[![Neon Car Racing Game project card: fast neon racer built with React and Three.js](assets/card-neon.png)](https://neon-rush-coral.vercel.app/)
 
 Fast neon racer with tap-to-drift controls, HUD, sound and glowing trails.
 
@@ -34,7 +34,7 @@ Fast neon racer with tap-to-drift controls, HUD, sound and glowing trails.
 
 ### Rachit's AI Assistant
 
-![AI Assistant project card: Next.js chat app powered by Groq](assets/card-ai.png)
+[![AI Assistant project card: Next.js chat app powered by Groq](assets/card-ai.png)](https://ai-assistant-one-teal.vercel.app/)
 
 Next.js chat app powered by Groq — fast streaming answers in a dark chat UI.
 

@@ -1,6 +1,6 @@
 # Hey, I'm Rachit Sharma
 
-[![Rachit Sharma profile banner: name, Digital Marketing Specialist (in training), marketing and AI](assets/banner.png)](https://rachitportfolio-rouge.vercel.app/)
+[![Rachit Sharma profile banner: Digital Marketer and AI Builder](assets/banner.png)](https://rachitportfolio-rouge.vercel.app/)
 
 Rachit Sharma is a digital marketer from Kaithal, Haryana, India who uses AI tools to build brands, campaigns and creative projects.
 

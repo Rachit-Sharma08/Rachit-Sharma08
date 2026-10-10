@@ -2,7 +2,7 @@
 
 [![Rachit Sharma profile banner: name, Digital Marketing Specialist (in training), marketing and AI](assets/banner.png)](https://rachitportfolio-rouge.vercel.app/)
 
-I'm a **digital marketer (in training)** who uses AI tools to build brands, campaigns and creative projects that actually connect.
+Rachit Sharma is a digital marketer from Kaithal, Haryana, India who uses AI tools to build brands, campaigns and creative projects.
 
 **[Portfolio](https://rachitportfolio-rouge.vercel.app/)** · **[LinkedIn](https://www.linkedin.com/in/rachit-sharma-ab199443a/)** · **[Email](mailto:rachitsharma9990888@gmail.com)**
 

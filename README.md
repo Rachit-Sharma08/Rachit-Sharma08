@@ -1,18 +1,26 @@
-# Hey, I'm Rachit Sharma
+<div align="center">
 
-[![Rachit Sharma profile banner: Digital Marketer and AI Builder](assets/banner.png)](https://rachitportfolio-rouge.vercel.app/)
+[![Rachit Sharma — Digital Marketer and AI Builder](assets/banner.png)](https://rachitportfolio-rouge.vercel.app/)
 
-Rachit Sharma is a digital marketer from Kaithal, Haryana, India who uses AI tools to build brands, campaigns and creative projects.
+### Digital marketer in Kaithal, Haryana · Google Ads · Meta Ads · SEO / AEO / GEO
 
-**[Portfolio](https://rachitportfolio-rouge.vercel.app/)** · **[LinkedIn](https://www.linkedin.com/in/rachit-sharma-ab199443a/)** · **[Email](mailto:rachitsharma9990888@gmail.com)**
+I turn AI-powered ideas into brands, campaigns and working web products.
 
-## Things I've built
+[Portfolio](https://rachitportfolio-rouge.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/rachit-sharma08/) · [Email](mailto:rachitsharma9990888@gmail.com)
+
+</div>
+
+## What I do
+
+- **Paid growth** — Google Ads and Meta Ads campaigns, structured to actually move the needle.
+- **Search & answer visibility** — SEO, AEO and GEO: clean content, structured data, fast load, answer-ready copy.
+- **AI-assisted building** — I use AI tools (OpenAI, Claude, ElevenLabs, Cartesia, OpenCode and more) to build brands, campaigns and creative web projects — and the web projects themselves.
+
+## Selected work
 
 ### Rachit Sharma — Portfolio
 
-[![Portfolio project card: dark cinematic portfolio built with React, Tailwind CSS, GSAP and Lenis](assets/card-portfolio.png)](https://rachitportfolio-rouge.vercel.app/)
-
-My own dark, cinematic portfolio — GSAP scroll animations, Lenis smooth scroll and Supabase.
+My own dark, cinematic portfolio — GSAP scroll animations, Lenis smooth scroll and Supabase-backed content.
 
 **[Live](https://rachitportfolio-rouge.vercel.app/)**
 
@@ -40,16 +48,16 @@ Next.js chat app powered by Groq — fast streaming answers in a dark chat UI.
 
 **[Live](https://ai-assistant-one-teal.vercel.app/) · [Code](https://github.com/Rachit-Sharma08/ai-assistant)**
 
-## My stack
+## Stack
 
 - **Frontend** — React, Next.js, TypeScript, Vite, Tailwind CSS
-- **Motion** — GSAP, Framer Motion, Lenis, Three.js
-- **AI** — Groq API, Google AI Studio
-- **Platform** — Vercel, Supabase, Git
+- **Motion & 3D** — GSAP, Framer Motion, Lenis, Three.js
+- **AI** — OpenAI GPT, Claude, ElevenLabs, Cartesia AI, Groq
+- **Platform** — Vercel, Supabase, GitHub
 
 ## Find me online
 
 - 🌐 Portfolio: [rachitportfolio-rouge.vercel.app](https://rachitportfolio-rouge.vercel.app/)
-- 💼 LinkedIn: [rachit-sharma-ab199443a](https://www.linkedin.com/in/rachit-sharma-ab199443a/)
+- 💼 LinkedIn: [rachit-sharma08](https://www.linkedin.com/in/rachit-sharma08/)
 - 📸 Instagram: [rachit.08_](https://www.instagram.com/rachit.08_)
 - ✉️ Email: [rachitsharma9990888@gmail.com](mailto:rachitsharma9990888@gmail.com)

@@ -2,62 +2,100 @@
 
 [![Rachit Sharma — Digital Marketer and AI Builder](assets/banner.png)](https://rachitportfolio-rouge.vercel.app/)
 
-### Digital marketer in Kaithal, Haryana · Google Ads · Meta Ads · SEO / AEO / GEO
+# Rachit Sharma
 
-I turn AI-powered ideas into brands, campaigns and working web products.
+**Digital marketer in Kaithal, Haryana** — I run Google & Meta ads, help local
+businesses get found on Google **and** AI answers, and build the web products
+myself with AI.
 
-[Portfolio](https://rachitportfolio-rouge.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/rachit-sharma08/) · [Email](mailto:rachitsharma9990888@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rouge.vercel.app-6b1220?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rachitportfolio-rouge.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rachit--sharma08-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachit-sharma08/)
+[![Instagram](https://img.shields.io/badge/Instagram-rachit.08_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rachit.08_)
+[![Email](https://img.shields.io/badge/Email-Reach%20out-d62e4a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachitsharma9990888@gmail.com)
 
 </div>
 
+---
+
 ## What I do
 
-- **Paid growth** — Google Ads and Meta Ads campaigns, structured to actually move the needle.
-- **Search & answer visibility** — SEO, AEO and GEO: clean content, structured data, fast load, answer-ready copy.
-- **AI-assisted building** — I use AI tools (OpenAI, Claude, ElevenLabs, Cartesia, OpenCode and more) to build brands, campaigns and creative web projects — and the web projects themselves.
+- **Paid growth** — Google Ads & Meta Ads campaigns structured to convert, not just spend.
+- **Search & answer visibility** — SEO, AEO and GEO, so a business shows up in Google results *and* gets cited by AI assistants like ChatGPT and Perplexity.
+- **AI-assisted building** — I build and ship real, deployed web products using AI tools (Claude, OpenAI, ElevenLabs, OpenCode). Marketer who can build the funnel end-to-end, not just the ads.
+
+---
 
 ## Selected work
 
-### Rachit Sharma — Portfolio
+### 🏋️ Infinity Fitness Gym
 
-My own dark, cinematic portfolio — GSAP scroll animations, Lenis smooth scroll and Supabase-backed content.
+[![Infinity Fitness Gym — full multi-page responsive website for a gym in Kaithal](assets/card-fitness.png)](https://fitness-website-nine-chi.vercel.app/)
 
-**[Live](https://rachitportfolio-rouge.vercel.app/)**
-
-### Infinity Fitness Gym
-
-[![Infinity Fitness Gym project card: landing page for a gym in Kaithal](assets/card-fitness.png)](https://fitness-website-nine-chi.vercel.app/)
-
-Landing page for a gym in Kaithal — UI design, responsive layout and branding.
+A full multi-page responsive website for a gym in Kaithal — 9 pages (Home,
+About, Services, Membership, Gallery, Testimonials, Owner, Contact), an AI
+chatbot, live open/closed status, membership plans, video gallery, and
+WhatsApp + free-trial booking. Built with React, TypeScript, Tailwind CSS and
+shadcn/ui.
 
 **[Live](https://fitness-website-nine-chi.vercel.app/) · [Code](https://github.com/Rachit-Sharma08/Fitness-website)**
 
-### Neon Car Racing Game
+### 💼 Rachit Sharma — Portfolio
 
-[![Neon Car Racing Game project card: fast neon racer built with React and Three.js](assets/card-neon.png)](https://neon-rush-coral.vercel.app/)
+[![Rachit Sharma portfolio — dark cinematic site with GSAP animations and Supabase CMS](assets/card-portfolio.png)](https://rachitportfolio-rouge.vercel.app/)
 
-Fast neon racer with tap-to-drift controls, HUD, sound and glowing trails.
+My own dark, cinematic portfolio — GSAP scroll animations, Lenis smooth scroll,
+a Supabase-backed blog/CMS, pre-rendered SEO and `/llms.txt` for AI crawlers.
+
+**[Live](https://rachitportfolio-rouge.vercel.app/) · [Code](https://github.com/Rachit-Sharma08/rachitportfolio)**
+
+### 🏎️ Neon Car Racing Game
+
+[![Neon Car Racing Game — 3D neon racer built with Three.js](assets/card-neon.png)](https://neon-rush-coral.vercel.app/)
+
+A 3D neon racer built with Three.js — garage, HUD, countdown and menu screens.
+Generated from a single Google AI Studio prompt.
 
 **[Live](https://neon-rush-coral.vercel.app/) · [Code](https://github.com/Rachit-Sharma08/neon-car-racing-game-)**
 
-### Rachit's AI Assistant
+### 🤖 Rachit's AI Assistant
 
-[![AI Assistant project card: Next.js chat app powered by Groq](assets/card-ai.png)](https://ai-assistant-one-teal.vercel.app/)
+[![Rachit's AI Assistant — Next.js chat app powered by Groq](assets/card-ai.png)](https://ai-assistant-one-teal.vercel.app/)
 
-Next.js chat app powered by Groq — fast streaming answers in a dark chat UI.
+Next.js chat app with fast streaming answers powered by Groq, in a clean dark
+chat UI.
 
 **[Live](https://ai-assistant-one-teal.vercel.app/) · [Code](https://github.com/Rachit-Sharma08/ai-assistant)**
 
+---
+
+## Now
+
+Currently focused on:
+
+- Running Google & Meta ad campaigns for local businesses in Kaithal
+- Writing about SEO, AEO and GEO — how to get cited by AI search
+- Building more AI-assisted products and client sites
+
+---
+
 ## Stack
 
-- **Frontend** — React, Next.js, TypeScript, Vite, Tailwind CSS
-- **Motion & 3D** — GSAP, Framer Motion, Lenis, Three.js
-- **AI** — OpenAI GPT, Claude, ElevenLabs, Cartesia AI, Groq
-- **Platform** — Vercel, Supabase, GitHub
+| | |
+|---|---|
+| **Marketing** | Google Ads · Meta Ads · SEO · AEO · GEO · Analytics |
+| **Building** | React · Next.js · TypeScript · Tailwind CSS · GSAP · Framer Motion |
+| **AI** | Claude · OpenAI GPT · ElevenLabs · Cartesia AI · Groq · OpenCode |
+| **Platform** | Vercel · Supabase · GitHub |
 
-## Find me online
+---
 
-- 🌐 Portfolio: [rachitportfolio-rouge.vercel.app](https://rachitportfolio-rouge.vercel.app/)
-- 💼 LinkedIn: [rachit-sharma08](https://www.linkedin.com/in/rachit-sharma08/)
-- 📸 Instagram: [rachit.08_](https://www.instagram.com/rachit.08_)
-- ✉️ Email: [rachitsharma9990888@gmail.com](mailto:rachitsharma9990888@gmail.com)
+<div align="center">
+
+**Let's build something that gets found — and converts.**
+
+[Portfolio](https://rachitportfolio-rouge.vercel.app/) ·
+[LinkedIn](https://www.linkedin.com/in/rachit-sharma08/) ·
+[Instagram](https://www.instagram.com/rachit.08_) ·
+[Email](mailto:rachitsharma9990888@gmail.com)
+
+</div>

@@ -116,13 +116,10 @@ Currently focused on:
 
 ---
 
-<div align="center">
+## Work with me
 
 **Let's build something that gets found — and converts.**
 
-[Portfolio](https://rachitportfolio-rouge.vercel.app/) ·
-[LinkedIn](https://www.linkedin.com/in/rachit-sharma08/) ·
-[Instagram](https://www.instagram.com/rachit.08_) ·
-[Email](mailto:rachitsharma9990888@gmail.com)
+I take on freelance work — Google & Meta ad campaigns, SEO/AEO/GEO, and full websites for local businesses.
 
-</div>
+**[Email me](mailto:rachitsharma9990888@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rachit-sharma08/)**

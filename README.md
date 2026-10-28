@@ -31,6 +31,16 @@ myself with AI.
 
 ---
 
+## Now writing
+
+I write about digital marketing, AI search, and the campaigns I run:
+
+- **[dev.to](https://dev.to/rachitsharma08)** — practical marketing + AI experiments
+- **[Medium](https://medium.com/@rachitsharma9990888)** — longer deep-dives on SEO, AEO and GEO
+- **[LinkedIn](https://www.linkedin.com/in/rachit-sharma08/)** — campaign breakdowns and quick notes
+
+---
+
 ## Selected work
 
 ### 🧩 Agent Skills — 208 skills for coding agents

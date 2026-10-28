@@ -13,6 +13,12 @@ myself with AI.
 [![Instagram](https://img.shields.io/badge/Instagram-rachit.08_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rachit.08_)
 [![Email](https://img.shields.io/badge/Email-Reach%20out-d62e4a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachitsharma9990888@gmail.com)
 
+<br/>
+
+![Typing](assets/typing.svg)
+
+<img src="https://komarev.com/ghpvc/?username=Rachit-Sharma08&color=d62e4a&style=flat-square" alt="Profile views" height="22">
+
 </div>
 
 ---

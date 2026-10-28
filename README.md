@@ -13,6 +13,12 @@ myself with AI.
 [![Instagram](https://img.shields.io/badge/Instagram-rachit.08_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rachit.08_)
 [![Email](https://img.shields.io/badge/Email-Reach%20out-d62e4a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachitsharma9990888@gmail.com)
 
+<br/>
+
+![Typing](assets/typing.svg)
+
+<img src="https://komarev.com/ghpvc/?username=Rachit-Sharma08&color=d62e4a&style=flat-square" alt="Profile views" height="22">
+
 </div>
 
 ---
@@ -22,6 +28,16 @@ myself with AI.
 - **Paid growth** — Google Ads & Meta Ads campaigns structured to convert, not just spend.
 - **Search & answer visibility** — SEO, AEO and GEO, so a business shows up in Google results *and* gets cited by AI assistants like ChatGPT and Perplexity.
 - **AI-assisted building** — I build and ship real, deployed web products using AI tools (Claude, OpenAI, ElevenLabs, OpenCode). Marketer who can build the funnel end-to-end, not just the ads — and I maintain an open-source library of 208 agent skills.
+
+---
+
+## Now writing
+
+I write about digital marketing, AI search, and the campaigns I run:
+
+- **[dev.to](https://dev.to/rachitsharma08)** — practical marketing + AI experiments
+- **[Medium](https://medium.com/@rachitsharma9990888)** — longer deep-dives on SEO, AEO and GEO
+- **[LinkedIn](https://www.linkedin.com/in/rachit-sharma08/)** — campaign breakdowns and quick notes
 
 ---
 
@@ -100,13 +116,10 @@ Currently focused on:
 
 ---
 
-<div align="center">
+## Work with me
 
 **Let's build something that gets found — and converts.**
 
-[Portfolio](https://rachitportfolio-rouge.vercel.app/) ·
-[LinkedIn](https://www.linkedin.com/in/rachit-sharma08/) ·
-[Instagram](https://www.instagram.com/rachit.08_) ·
-[Email](mailto:rachitsharma9990888@gmail.com)
+I take on freelance work — Google & Meta ad campaigns, SEO/AEO/GEO, and full websites for local businesses.
 
-</div>
+**[Email me](mailto:rachitsharma9990888@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rachit-sharma08/)**

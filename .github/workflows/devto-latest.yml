@@ -1,0 +1,40 @@
+name: refresh-devto
+
+on:
+  schedule:
+    - cron: "23 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update latest dev.to article
+        run: |
+          python3 - <<'EOF'
+          import json, re, urllib.request
+          data = json.load(urllib.request.urlopen("https://dev.to/api/articles?username=rachitsharma08&per_page=1"))[0]
+          title = data["title"].replace("[", "(").replace("]", ")")
+          line = "- 📝 **[%s](%s)** — %s" % (title, data["url"], data["readable_publish_date"])
+          readme = open("README.md", encoding="utf-8").read()
+          new = re.sub(
+              r"(<!-- devto-latest:START -->\n).*(<!-- devto-latest:END -->)",
+              lambda m: m.group(1) + line + "\n" + m.group(2),
+              readme, flags=re.S)
+          if new != readme:
+              open("README.md", "w", encoding="utf-8").write(new)
+              print("updated")
+          EOF
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: refresh latest dev.to article"
+          git push

@@ -19,6 +19,10 @@ myself with AI.
 
 <img src="https://komarev.com/ghpvc/?username=Rachit-Sharma08&color=d62e4a&style=flat-square" alt="Profile views" height="22">
 
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rachit-Sharma08&show_icons=true&include_all_commits=true&title_color=d62e4a&icon_color=e8455f&text_color=ffffff&bg_color=1c0d13&ring_color=d62e4a&hide_border=true&border_radius=12" alt="GitHub stats"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit-Sharma08&layout=compact&title_color=d62e4a&text_color=ffffff&bg_color=1c0d13&ring_color=d62e4a&hide_border=true&border_radius=12" alt="Top languages">
+
 </div>
 
 ---
@@ -34,6 +38,10 @@ myself with AI.
 ## Now writing
 
 I write about digital marketing, AI search, and the campaigns I run:
+
+<!-- devto-latest:START -->
+- 📝 **[I Collected 208 Skills for Coding Agents. Here's How I Stop Them Fighting Each Other](https://dev.to/rachitsharma08/i-collected-208-skills-for-coding-agents-heres-how-i-stop-them-fighting-each-other-2105)** — Oct 28
+<!-- devto-latest:END -->
 
 - **[dev.to](https://dev.to/rachitsharma08)** — practical marketing + AI experiments
 - **[Medium](https://medium.com/@rachitsharma9990888)** — longer deep-dives on SEO, AEO and GEO

@@ -15,7 +15,7 @@ myself with AI.
 
 <br/>
 
-![Typing](assets/typing.svg)
+![Typing](assets/typing.svg?v=2)
 
 <img src="https://komarev.com/ghpvc/?username=Rachit-Sharma08&color=d62e4a&style=flat-square" alt="Profile views" height="22">
 

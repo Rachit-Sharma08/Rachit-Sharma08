@@ -21,7 +21,7 @@ myself with AI.
 
 <br/>
 
-![GitHub stats](assets/stats.svg?v=2)
+![GitHub stats](assets/stats.svg?v=3)
 
 </div>
 

@@ -66,7 +66,7 @@ def main():
   <line x1="458" y1="52" x2="458" y2="100" stroke="#d62e4a" stroke-opacity="0.25"/>
   <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
     %s
-    <text x="128" y="104" font-size="13" fill="#e8455f">contributions / year</text>
+    <text x="128" y="104" font-size="13" fill="#e8455f">public contributions</text>
     <text x="348" y="82" font-size="32" font-weight="700" fill="#ffffff">%d</text>
     <text x="348" y="104" font-size="13" fill="#e8455f">public repos</text>
     <text x="568" y="82" font-size="32" font-weight="700" fill="#ffffff">%d</text>

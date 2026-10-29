@@ -16,7 +16,7 @@
     <text x="128" y="82" font-size="32" font-weight="700" fill="#ffffff" opacity="0">314<animate attributeName="opacity" dur="1s" values="0;0;1;1;0;0" keyTimes="0;0.6;0.6;0.7;0.705;1"/></text>
     <text x="128" y="82" font-size="32" font-weight="700" fill="#ffffff" opacity="0">367<animate attributeName="opacity" dur="1s" values="0;0;1;1;0;0" keyTimes="0;0.7;0.7;0.8;0.805;1"/></text>
     <text x="128" y="82" font-size="32" font-weight="700" fill="#ffffff">419+<animate attributeName="opacity" dur="1s" values="0;0;1" keyTimes="0;0.8;1"/></text>
-    <text x="128" y="104" font-size="13" fill="#e8455f">contributions / year</text>
+    <text x="128" y="104" font-size="13" fill="#e8455f">public contributions</text>
     <text x="348" y="82" font-size="32" font-weight="700" fill="#ffffff">6</text>
     <text x="348" y="104" font-size="13" fill="#e8455f">public repos</text>
     <text x="568" y="82" font-size="32" font-weight="700" fill="#ffffff">6</text>

@@ -21,7 +21,7 @@ myself with AI.
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rachit-Sharma08&show_icons=true&include_all_commits=true&title_color=d62e4a&icon_color=e8455f&text_color=ffffff&bg_color=1c0d13&ring_color=d62e4a&hide_border=true&border_radius=12" alt="GitHub stats"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit-Sharma08&layout=compact&title_color=d62e4a&text_color=ffffff&bg_color=1c0d13&ring_color=d62e4a&hide_border=true&border_radius=12" alt="Top languages">
+![GitHub stats](assets/stats.svg)
 
 </div>
 

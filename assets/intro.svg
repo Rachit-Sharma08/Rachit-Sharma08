@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 118" width="600" height="118" role="img" aria-label="Digital marketer in Kaithal, Haryana. I run Google and Meta ads, help local businesses get found on Google and AI answers, and build the web products myself with AI.">
+  <style>
+    .hl { fill: #1c0d13; }
+    .sub { fill: #555054; }
+    @media (prefers-color-scheme: dark) {
+      .hl { fill: #ffffff; }
+      .sub { fill: #b8aeb1; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="ul" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6b1220"/>
+      <stop offset="0.6" stop-color="#d62e4a"/>
+      <stop offset="1" stop-color="#e8455f"/>
+    </linearGradient>
+  </defs>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">
+    <text class="hl" x="40" y="48" opacity="0">Digital<animate attributeName="opacity" begin="0.4s" dur="0.35s" from="0" to="1" fill="freeze"/><animate attributeName="y" begin="0.4s" dur="0.35s" from="57" to="48" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0 0 1"/></text>
+    <text class="hl" x="139" y="48" opacity="0">marketer<animate attributeName="opacity" begin="0.49s" dur="0.35s" from="0" to="1" fill="freeze"/><animate attributeName="y" begin="0.49s" dur="0.35s" from="57" to="48" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0 0 1"/></text>
+    <text class="hl" x="276" y="48" opacity="0">in<animate attributeName="opacity" begin="0.58s" dur="0.35s" from="0" to="1" fill="freeze"/><animate attributeName="y" begin="0.58s" dur="0.35s" from="57" to="48" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0 0 1"/></text>
+    <text class="hl" x="310" y="48" opacity="0">Kaithal,<animate attributeName="opacity" begin="0.67s" dur="0.35s" from="0" to="1" fill="freeze"/><animate attributeName="y" begin="0.67s" dur="0.35s" from="57" to="48" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0 0 1"/></text>
+    <text class="hl" x="426" y="48" opacity="0">Haryana<animate attributeName="opacity" begin="0.76s" dur="0.35s" from="0" to="1" fill="freeze"/><animate attributeName="y" begin="0.76s" dur="0.35s" from="57" to="48" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0 0 1"/></text>
+  </g>
+  <rect x="40" y="60" width="0" height="3" rx="1.5" fill="url(#ul)">
+    <animate attributeName="width" begin="1.05s" dur="0.6s" from="0" to="506" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0 0.2 1"/>
+  </rect>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="15" opacity="0">
+    <text class="sub" x="40" y="86">I run Google &amp; Meta ads, help local businesses get found on Google</text>
+    <text class="sub" x="40" y="106">and AI answers, and build the web products myself with AI.</text>
+    <animate attributeName="opacity" begin="1.35s" dur="0.5s" from="0" to="1" fill="freeze"/>
+  </g>
+</svg>

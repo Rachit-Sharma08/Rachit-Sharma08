@@ -4,9 +4,7 @@
 
 # Rachit Sharma
 
-**Digital marketer in Kaithal, Haryana** — I run Google & Meta ads, help local
-businesses get found on Google **and** AI answers, and build the web products
-myself with AI.
+![Digital marketer in Kaithal, Haryana — I run Google & Meta ads, help local businesses get found on Google and AI answers, and build the web products myself with AI](assets/intro.svg?v=1)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rouge.vercel.app-6b1220?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rachitportfolio-rouge.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rachit--sharma08-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachit-sharma08/)

@@ -18,7 +18,10 @@ jobs:
         run: |
           python3 - <<'EOF'
           import json, re, urllib.request
-          data = json.load(urllib.request.urlopen("https://dev.to/api/articles?username=rachitsharma08&per_page=1"))[0]
+          req = urllib.request.Request(
+              "https://dev.to/api/articles?username=rachitsharma08&per_page=1",
+              headers={"User-Agent": "Mozilla/5.0 (compatible; readme-refresh)"})
+          data = json.load(urllib.request.urlopen(req, timeout=30))[0]
           title = data["title"].replace("[", "(").replace("]", ")")
           line = "- 📝 **[%s](%s)** — %s" % (title, data["url"], data["readable_publish_date"])
           readme = open("README.md", encoding="utf-8").read()

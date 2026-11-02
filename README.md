@@ -29,7 +29,7 @@
 
 - **Paid growth** — Google Ads & Meta Ads campaigns structured to convert, not just spend.
 - **Search & answer visibility** — SEO, AEO and GEO, so a business shows up in Google results *and* gets cited by AI assistants like ChatGPT and Perplexity.
-- **AI-assisted building** — I build and ship real, deployed web products using AI tools (Claude, OpenAI, ElevenLabs, OpenCode). Marketer who can build the funnel end-to-end, not just the ads — and I maintain an open-source library of 208 agent skills.
+- **AI-assisted building** — I build and ship real, deployed web products using AI tools (Claude, OpenAI, ElevenLabs, OpenCode). Marketer who can build the funnel end-to-end, not just the ads — and I maintain an open-source library of 209 agent skills.
 
 ---
 
@@ -49,11 +49,11 @@ I write about digital marketing, AI search, and the campaigns I run:
 
 ## Selected work
 
-### 🧩 Agent Skills — 208 skills for coding agents
+### 🧩 Agent Skills — 209 skills for coding agents
 
-[![Agent Skills — 208 drop-in skills for Claude Code, OpenCode, Codex and Cursor](assets/card-skills.png)](https://github.com/Rachit-Sharma08/coding-agent-skills)
+[![Agent Skills — 209 drop-in skills for Claude Code, OpenCode, Codex and Cursor](assets/card-skills.png)](https://github.com/Rachit-Sharma08/coding-agent-skills)
 
-An open-source library of 208 skills I actually use — each one is a `SKILL.md` that a coding
+An open-source library of 209 skills I actually use — each one is a `SKILL.md` that a coding
 agent loads by itself when the request matches: FFmpeg video editing, anti-slop UI design, SEO
 and AEO audits, Word/PDF/PPTX generation, Stripe and Supabase patterns, Ghidra for binaries,
 plus the workflow skills that stop an agent from free-styling. One clone, no plugin config.

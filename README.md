@@ -38,7 +38,7 @@
 I write about digital marketing, AI search, and the campaigns I run:
 
 <!-- devto-latest:START -->
-- 📝 **[I Collected 208 Skills for Coding Agents. Here's How I Stop Them Fighting Each Other](https://dev.to/rachitsharma08/i-collected-208-skills-for-coding-agents-heres-how-i-stop-them-fighting-each-other-2105)** — Oct 28
+- 📝 **[SEO Basics in 5 Minutes: What It Is and How Google Decides What to Show](https://dev.to/rachitsharma08/seo-basics-in-5-minutes-what-it-is-and-how-google-decides-what-to-show-49a0)** — Nov 1
 <!-- devto-latest:END -->
 
 - **[dev.to](https://dev.to/rachitsharma08)** — practical marketing + AI experiments

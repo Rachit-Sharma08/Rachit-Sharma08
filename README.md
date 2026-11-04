@@ -38,7 +38,7 @@
 I write about digital marketing, AI search, and the campaigns I run:
 
 <!-- devto-latest:START -->
-- 📝 **[SEO Basics in 5 Minutes: What It Is and How Google Decides What to Show](https://dev.to/rachitsharma08/seo-basics-in-5-minutes-what-it-is-and-how-google-decides-what-to-show-49a0)** — Nov 1
+- 📝 **[On-Page SEO Checklist: 8 Things to Fix on Every Page](https://dev.to/rachitsharma08/on-page-seo-checklist-8-things-to-fix-on-every-page-4j1m)** — Nov 2
 <!-- devto-latest:END -->
 
 - **[dev.to](https://dev.to/rachitsharma08)** — practical marketing + AI experiments

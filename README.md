@@ -38,7 +38,7 @@
 I write about digital marketing, AI search, and the campaigns I run:
 
 <!-- devto-latest:START -->
-- 📝 **[On-Page SEO Checklist: 8 Things to Fix on Every Page](https://dev.to/rachitsharma08/on-page-seo-checklist-8-things-to-fix-on-every-page-4j1m)** — Nov 2
+- 📝 **[Cut the Form Fields Nobody Actually Uses](https://dev.to/rachitsharma08/cut-the-form-fields-nobody-actually-uses-52l6)** — Nov 13
 <!-- devto-latest:END -->
 
 - **[dev.to](https://dev.to/rachitsharma08)** — practical marketing + AI experiments

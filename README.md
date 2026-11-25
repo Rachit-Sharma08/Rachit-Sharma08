@@ -38,7 +38,7 @@
 I write about digital marketing, AI search, and the campaigns I run:
 
 <!-- devto-latest:START -->
-- 📝 **[Cut the Form Fields Nobody Actually Uses](https://dev.to/rachitsharma08/cut-the-form-fields-nobody-actually-uses-52l6)** — Nov 13
+- 📝 **[When Not to Use AI for Marketing Copy](https://dev.to/rachitsharma08/when-not-to-use-ai-for-marketing-copy-jlb)** — Nov 23
 <!-- devto-latest:END -->
 
 - **[dev.to](https://dev.to/rachitsharma08)** — practical marketing + AI experiments
